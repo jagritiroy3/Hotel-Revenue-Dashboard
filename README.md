@@ -23,4 +23,4 @@ This Power BI dashboard provides insights into hotel revenue performance, bookin
 - Performance Dashboard
 
 ## Dashboard Preview
-(Add Screenshot Here)
+![Hotel Revenue Dashboard](hotel-revenue.png.png)
