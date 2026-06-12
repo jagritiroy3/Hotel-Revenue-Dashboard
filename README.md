@@ -113,7 +113,7 @@ HOTEL-REVENUE-INSIGHTS-DASHBOARD/
 
 Aspiring Data Analyst | Power BI | SQL | Excel | Python
 
-GitHub: https//github.com/jagritiroy3
+GitHub: https://github.com/jagritiroy3
 
 ## ⭐ Acknowledgement
 
